@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.top-left {
+  position: absolute;
+  top: 48px;
+  left: 36px;
+  color: whitesmoke;
+  font-family: "Trebuchet MS";
+}
